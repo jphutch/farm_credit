@@ -1,0 +1,13 @@
+name: farm_credit
+channels:
+  - defaults
+dependencies:
+  - python=3.8.5
+  - geopandas
+  - jupyter
+  - pyshp
+  - seaborn
+  - descartes
+  - rasterio
+  - bokeh
+  - plotly
