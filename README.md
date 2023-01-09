@@ -44,7 +44,7 @@ Figures are almost all created with `matplotlib` with the exception of Figure 2,
 The two subdirectories are "paper" and "supplementary_materials." The main document in the "supplementary materials" is the original PCA map which could previously be found at [this public url](http://www.farmcredit100.com/our-history/archive/location-of-production-credit-associations) (unfortunately, the site has since been shut down). The paper subdirectory has the references, the appendix, and the text of the paper which grabs the figures from the directory "figs."
 
 ### Generating the Data
-Since the data cannot be stored on GitHub, the code files need to be given the data directory, which is a text string stored in the file "data_dir.txt". Once this is supplied, running the scripts will populate the "clean_data" folder with the created data products. Currently the data folder also contains the created data products. The data files are stored in a zip folder at the AJAE website.
+Since the data cannot be stored on GitHub, the code files need to be given the data directory, which is a text string stored in the file "data_dir.txt". Once this is supplied, running the scripts will populate the "clean_data" folder with the created data products. Currently the data folder also contains the created data products. The data files are stored in a zip folder at the AJAE website at [this link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/action/downloadSupplement?doi=10.1111%2Fajae.12290&file=ajae12290-sup-0001-AppendixS1.zip).
 
 
 ### Data Sources
